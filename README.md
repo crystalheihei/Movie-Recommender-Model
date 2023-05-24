@@ -1,1 +1,1 @@
-# Movie-Recommender_model
+# Movie-Recommender-Model
